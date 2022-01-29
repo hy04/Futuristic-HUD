@@ -3,6 +3,10 @@
 import Vue from 'vue'
 import App from './App'
 
+/* 引入公共函数 */
+import common from './assets/js/common'
+Vue.use(common);
+
 Vue.config.productionTip = false
 
 /* eslint-disable no-new */
