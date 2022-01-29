@@ -1,6 +1,6 @@
 # hud-design
 
-> A Vue.js project
+> A project for creative dashboard design
 
 ## Build Setup
 
